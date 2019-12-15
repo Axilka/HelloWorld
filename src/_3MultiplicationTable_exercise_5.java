@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiplicationTable_exercise_5
+public class _3MultiplicationTable_exercise_5
 {
     public static void main(String[] args)
     {
