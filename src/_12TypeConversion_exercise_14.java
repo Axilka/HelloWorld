@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _12TypeConversion_14 {
+public class _12TypeConversion_exercise_14 {
     public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
